@@ -34,7 +34,7 @@ Users should be able to:
 ### Links
 
 -   Solution URL: [https://github.com/akiraafu/advice-generator-app]
--   Live Site URL: [https://advice-generator-lvpiyrw3j-akiraafu.vercel.app/]
+-   Live Site URL: [https://advice-generator-fxgrg1q26-akiraafu.vercel.app]
 
 ## My process
 
